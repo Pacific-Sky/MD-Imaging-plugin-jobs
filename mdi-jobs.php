@@ -2,7 +2,7 @@
 Plugin Name: MDI Jobs Functionality
 Plugin URI: http://mdimaging.net
 Description: Enables Job Listing and application functions on mdimaging.no-repeat
-Version: 0.1
+Version: 1.0.0
 Author: Tyler Shuster
 Author URI: https://tyler.shuster.house
 */
